@@ -1,6 +1,6 @@
 # Python API Challenge: WeatherPy and VacationPy
 
-<img src="https://sinay.ai/wp-content/uploads/2022/09/api-e1649279794668-scaled.webp" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
+<img src="https://sinay.ai/wp-content/uploads/2022/09/api-e1649279794668-scaled.webp" alt="WeatherPy and VacationPy" style="width: 100%; height: auto;">
 
 ***
 ## Background
@@ -22,7 +22,7 @@ In this part, we visualize the weather of over 500 cities across the world using
    - Latitude vs. Wind Speed
 4. **Compute Linear Regression**: Compute linear regression for each relationship, separating the plots into the Northern and Southern Hemispheres.
 
-<img src="https://static.bc-edx.com/data/dl-1-2/m6/lms/img/linear-regression-plot.png" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
+<img src="https://static.bc-edx.com/data/dl-1-2/m6/lms/img/linear-regression-plot.png" alt="inear-regression-plot.png" style="width: 100%; height: auto;">
 
 #### Outputs
 - **Latitude vs. Temperature**
@@ -70,7 +70,7 @@ The scatter plots reveal the following trends:
 3. **Latitude vs. Cloudiness**: Cloudiness varies widely at all latitudes, showing no significant pattern.
 4. **Latitude vs. Wind Speed**: Wind speed does not show a strong correlation with latitude.
 
-<img src="https://static.bc-edx.com/data/dl-1-2/m6/lms/img/humidity_map.png" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
+<img src="https://static.bc-edx.com/data/dl-1-2/m6/lms/img/humidity_map.png" alt="humidity_map.png" style="width: 100%; height: auto;">
 
 ### VacationPy
 Using the weather data, ideal vacation cities were selected based on criteria such as moderate temperatures, low wind speeds, and clear skies. Hotels near these ideal cities were located using the Geoapify API, and maps were created to visualize these vacation spots.
